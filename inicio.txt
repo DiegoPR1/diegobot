@@ -1,0 +1,5 @@
+cd C:\Users\Pc\Downloads\DiscordBot
+
+env\Scripts\activate
+
+py bot.py
